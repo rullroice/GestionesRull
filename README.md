@@ -76,11 +76,3 @@ El proyecto se gestiona con Maven, que automatiza el proceso de compilación y e
     ```
 4.  El proceso finalizará exitosamente con el mensaje `[INFO] BUILD SUCCESS`. Los archivos compilados (`.class`) se encontrarán en el directorio `target/classes`.
 
-#### **Ejecución**
-1.  Asegurarse de estar en la terminal dentro de la **carpeta raíz del proyecto**.
-2.  Ejecutar la aplicación utilizando el comando `java`, especificando el classpath (`-cp`) para que apunte a las clases compiladas y el nombre completo de la clase principal.
-    ```sh
-    java -cp target/classes com.example.Main
-    ```
-3.  La salida de la aplicación, demostrando la ejecución de los patrones, se mostrará en la consola.
-
