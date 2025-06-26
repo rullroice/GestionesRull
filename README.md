@@ -1,4 +1,4 @@
-# **Proyecto Final: Sistema de Gestión de Inventario con Patrones de Diseño GoF**
+# **Proyecto Final: Sistema de Gestión de Inventario**
 
 * **Autor:** Raúl Ibarra
 * **Fecha:** 25 de junio de 2025
